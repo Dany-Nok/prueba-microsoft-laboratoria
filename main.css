@@ -1,0 +1,36 @@
+/*Holiiiiiiiiiiiiiii
+Align, hace alineación de elementos dentro de la página
+Sirve tanto para el texto como para las imágenes*/
+body{
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.cuadrado-color{
+/* FORMA 1: background-color: darkblue; COLOR EN INGLES*/
+/* FORMA 2: background-color: #0B0B61; COLOR EN HEXADECIMAL*/
+background-color: rgb(6, 0, 85);
+padding-bottom: 20px; /* Dar espacio */
+/* FORMA 3: COLOR EN RGB*/
+}
+P{
+  color: darkblue;
+}
+h4{
+  font-family: 'Gloria Hallelujah';
+}
+h5{
+  font-family: 'Gloria Hallelujah';
+}
+/*img{ Cambia el tamaño de TODAS LAS IMAGENES en la pagina
+  width: 600px; Ancho de Imagen
+  height: 450px; Alto de Imagen
+}*/
+.foto-banner{ /*Cambia el tamaño de SOLO 1 FOTO*/
+  width: 300px; /* Ancho de Imagen*/
+  height: 150px; /*Alto de Imagen*/
+}
+/* Haciendo SEPARADOR*/
+.enlaces{
+  border-top: 2px dotted black;
+}
