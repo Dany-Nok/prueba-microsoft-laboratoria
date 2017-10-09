@@ -10,8 +10,15 @@ body{
 /* FORMA 1: background-color: darkblue; COLOR EN INGLES*/
 /* FORMA 2: background-color: #0B0B61; COLOR EN HEXADECIMAL*/
 background-color: rgb(6, 0, 85);
-padding-bottom: 20px; /* Dar espacio */
+padding-top: 20px;
+padding-bottom: 15px; /* Dar espacio */
 /* FORMA 3: COLOR EN RGB*/
+}
+h1{
+  color: white;
+}
+h3{
+  color: white;
 }
 P{
   color: darkblue;
@@ -27,10 +34,11 @@ h5{
   height: 450px; Alto de Imagen
 }*/
 .foto-banner{ /*Cambia el tamaño de SOLO 1 FOTO*/
-  width: 300px; /* Ancho de Imagen*/
-  height: 150px; /*Alto de Imagen*/
+  width: 500px; /* Ancho de Imagen*/
+  height: 350px; /*Alto de Imagen*/
 }
 /* Haciendo SEPARADOR*/
 .enlaces{
   border-top: 2px dotted black;
 }
+/* Ultimo Comenrtario para pensar que se hizo un cambio xD*/
